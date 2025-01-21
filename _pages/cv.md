@@ -10,13 +10,13 @@ redirect_from:
 <a href="https://haseebs1.github.io/files/Haseeb-Shahzad-Resume.pdf" download>Resume</a>
 
 
-Education
+Education - <a href="https://cs.uh.edu/"><em>UH CS</em></a>
 ======
 * B.S. in Computer Science, University of Houston, 2025
 
 Work experience
 ======
-(Looking for Internships/work.)
+<em>(Looking for Internships/work.)</em>
   
 Skills
 ======
@@ -31,9 +31,9 @@ Skills
   
 Portfolio/Projects
 ======
-  (This will be updated in future.)
+  <em>(This will be updated in future.)</em>
   
   
 Service and leadership
 ======
-* (Not Applicable)
+* <em>(Not Applicable)</em>
