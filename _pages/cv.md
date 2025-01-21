@@ -6,9 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 <!-- HTML Link with download attribute for direct download -->
-<a href="files/Haseeb Shahzad Resume.pdf" download>Resume</a>
+<a href="https://haseebs1.github.io/files/Haseeb-Shahzad-Resume.pdf" download>Resume</a>
 
 
 Education
@@ -30,7 +29,7 @@ Skills
 * OS
 * Data
   
-Talks & Presentation
+Portfolio/Projects
 ======
   (This will be updated in future.)
   
