@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 <a href="_pages/Haseeb Shahzad Resume.pdf" target="_blank">Resume</a>
-
+files/Haseeb Shahzad Resume.pdf
+[Resume](files/Haseeb Shahzad Resume.pdf)
 
 Education
 ======
