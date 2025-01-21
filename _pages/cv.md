@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Resume
+
 Education
 ======
 * B.S. in Computer Science, University of Houston, 2025
