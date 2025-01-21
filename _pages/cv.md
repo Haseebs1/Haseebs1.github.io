@@ -7,11 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-<!-- Normal Markdown Link -->
-[Resume](files/Haseeb Shahzad Resume.pdf)
-
 <!-- HTML Link with download attribute for direct download -->
 <a href="files/Haseeb Shahzad Resume.pdf" download>Resume</a>
 
