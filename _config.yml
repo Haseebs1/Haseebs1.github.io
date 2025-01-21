@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Haseeb's Website"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Haseeb's Website"
 description              : &description "personal description"
 url                      : https://haseebs1.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
