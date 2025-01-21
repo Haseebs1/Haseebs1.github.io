@@ -9,9 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="_pages/Haseeb Shahzad Resume.pdf" target="_blank">Resume</a>
-files/Haseeb Shahzad Resume.pdf
+<!-- Normal Markdown Link -->
 [Resume](files/Haseeb Shahzad Resume.pdf)
+
+<!-- HTML Link with download attribute for direct download -->
+<a href="files/Haseeb Shahzad Resume.pdf" download>Resume</a>
+
 
 Education
 ======
