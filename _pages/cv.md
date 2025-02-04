@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 <!-- HTML Link with download attribute for direct download -->
-<a href="https://haseebs1.github.io/files/Haseeb-Shahzad-Resume.pdf" download>Resume</a>
+<a href="https://github.com/Haseebs1/Haseebs1.github.io/blob/master/files/resume.pdf" download>Resume</a>
 
 
 Education - <a href="https://cs.uh.edu/"><em>UH CS</em></a>
