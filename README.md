@@ -23,7 +23,7 @@ To run this project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Haseebs1/Haseebs1.github.io.git
-   cd haseebwebsite
+   cd Haseebs1.github.io
 
 ## Live Demo
 - The website is deployed using GitHub Pages and can be accessed at:
