@@ -27,4 +27,4 @@ To run this project locally:
 
 ## Live Demo
 - The website is deployed using GitHub Pages and can be accessed at:
-  https://haseebs1.github.io/haseebwebsite/
+  https://haseebs1.github.io/
