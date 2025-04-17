@@ -1,7 +1,5 @@
 # Personal Website Project
 
-![Website Screenshot](assets/images/screenshot.png) <!-- Add a screenshot if available -->
-
 ## Overview
 This repository contains the source code for my personal portfolio website, showcasing my academic background, professional experience, technical skills, and projects. The website serves as a central hub for potential employers, collaborators, and academic connections to learn about my work and achievements.
 
